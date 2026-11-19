@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e1",
+    "match": "东湾练习赛",
+    "end": "1",
+    "colourA": "蓝 岩溪",
+    "colourB": "白 柳甸",
+    "hammer": "蓝",
+    "direction": "北向"
+  },
+  {
+    "id": "e2",
+    "match": "东湾练习赛",
+    "end": "2",
+    "colourA": "蓝 岩溪",
+    "colourB": "白 柳甸",
+    "hammer": "白",
+    "direction": "南向"
+  }
+]

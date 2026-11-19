@@ -1,0 +1,14 @@
+{
+  "name": "curling-tactical-annotations",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "冰壶课备课资料",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
